@@ -1,0 +1,17 @@
+{
+  "name": "client-credentials-flow",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@okta/jwt-verifier": "0.0.14",
+    "dotenv": "^7.0.0",
+    "express": "^4.16.4"
+  }
+}
