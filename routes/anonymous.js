@@ -80,7 +80,7 @@ router.get('/protocol', (req, res) => {
         {
             "name": "Sync.ItemMaster",
             "receive": true,
-            "send": false 
+            "send": true
         },
         {
             "name": "Process.ItemMaster",
